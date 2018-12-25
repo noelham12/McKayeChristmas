@@ -1,0 +1,86 @@
+---
+title: "McKaye"
+---
+
+```{r,echo=FALSE}
+  Alli<-load.image("Sleeping.JPG")
+ plot(Alli, axes = FALSE, main = "Mckaye taking a quick snoozer")
+```
+
+
+## McKaye
+
+One reason I'm happy is   
+
+because McKaye is my sister   
+
+If she wasn't in the family  
+
+I sure would have missed her   
+
+
+
+McKaye plays a special roll  
+
+She is the second to last  
+
+With socks and sandals  
+
+she runs really really fast 
+
+
+Whether its leading the school  
+
+or showing kindness at home  
+
+Mckaye makes a good impact  
+
+where ever she chooses to roam  
+
+
+I'm sad im not there to  
+
+celebrate with her this year   
+
+I hope shes still is able   
+
+to share lots of Christmas cheer  
+
+
+Because I am not there
+
+I want to share this site 
+
+I am presenting my gift for her
+
+with all my love and might
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r, echo=FALSE}
+love<-c(1,3,6,12,24,48)
+time<-c(1,2,3,4,5,6)
+
+plot(time,love, main= "McKaye and Hamilton")
+
+```
+

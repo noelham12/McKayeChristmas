@@ -1,0 +1,17 @@
+---
+title: "Real Present"
+---
+
+```{r,echo=FALSE}
+  Alli<-load.image("DR.JPG")
+ plot(Alli, axes = FALSE, main = "FUN TIMES")
+
+```
+
+##This is my idea
+
+Mckaye i want to have a fun experience with you. I think something that will last a long time and be more meaningful for both of us is quality time together. Her is what I have been thinking so far... I want to have a dad shirt hunting day. We either skip school... or go right after you get out of school... and spend some time hunting down some dad shirts, get some good munchies to eat, look dope in cute clothes, and find the best treasures that Washington has to offer. Maybe we dress up in cool outfits when we go... sandals, socks, hats... you know the drill. Looking forward to seeing you! Can't wait for our adventure!!
+
+
+
+

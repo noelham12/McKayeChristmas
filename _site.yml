@@ -1,0 +1,20 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "McKayeIsTheBomb.Com"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Fake Present"
+      href: Fake_Present.html
+    - text: "Real Present"
+      href: Real_Present.html
+      
+      
+      
+      
+      
+      
+      

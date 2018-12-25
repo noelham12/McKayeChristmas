@@ -1,0 +1,8 @@
+---
+title: "Fake Present"
+---
+
+```{r,echo=FALSE}
+  Alli<-load.image("Smile.JPG")
+ plot(Alli, axes = FALSE, main = "JK this isn't real")
+```

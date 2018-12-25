@@ -1,0 +1,12 @@
+---
+title: "McKayeIsTheBomb.Com"
+---
+
+Hello, how are you McKaye?
+
+```{r,echo=FALSE}
+  Alli<-load.image("kiss.JPG")
+ plot(Alli, axes = FALSE, main = "McKaye and Hamilton")
+```
+
+## Mckaye pretend like I am the horse and you are the cat and I am giving you a Christmas smooch
